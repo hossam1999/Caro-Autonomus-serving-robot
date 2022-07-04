@@ -1,0 +1,6 @@
+<launch>
+
+	<arg name="map_file" default="/home/arabtechhhh/Downloads/lllllol/src/nox/launch/maps/test_map.yaml"/>				
+	<node pkg="map_server" type="map_server" name="map_server" args="$(arg map_file)"/>
+
+</launch>

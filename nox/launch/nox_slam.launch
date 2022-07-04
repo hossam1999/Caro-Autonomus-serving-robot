@@ -1,0 +1,13 @@
+<launch>
+	<include file="$(find nox)/launch/nox_navigation.launch" />
+	
+
+	
+	
+
+					<!--  ************** gmapping ***************  -->
+
+
+				<!--  ************* Visualisation **************  -->
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find nox)/cfg/rviz_slam_base_local_planner.rviz" required="true" />
+</launch>
