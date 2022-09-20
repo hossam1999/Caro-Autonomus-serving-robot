@@ -7,4 +7,4 @@ We're aiming to help the elders who live on their own,  providing them with a ro
 Catering to the market's continuous demand, we started working on Caro.
 
 
-CV-ROS-ZED-NLP-LINUX-C++-PYTHON
+
