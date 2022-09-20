@@ -5,3 +5,6 @@ We have decided to tap into the ever-growing demand for autonomous assistance th
 
 We're aiming to help the elders who live on their own,  providing them with a robot that reminds them of their medication, hands them out alongside any other objects that they request. We're keen on making them feel well taken care of. 
 Catering to the market's continuous demand, we started working on Caro.
+
+
+CV-ROS-ZED-NLP-LINUX-C++-PYTHON
